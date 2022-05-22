@@ -1,0 +1,8 @@
+# created by virtualenv automatically
+Lib/*
+Scripts/*
+pyvenv.cfg
+Scraper/dataset/*
+Scraper/chromedriver.exe
+one_step
+training_checkpoints
